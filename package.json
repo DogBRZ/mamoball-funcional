@@ -1,5 +1,5 @@
 {
-  "name": "mamoball-funcional",
+  "name": "servidor-mamoball",
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
